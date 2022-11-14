@@ -1,2 +1,2 @@
-FROM node:latest
-EXPOSE 8888
+FROM node:latest 
+EXPOSE 8080
